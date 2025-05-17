@@ -9,6 +9,6 @@
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "body-parser": "^1.20.2",
-    "sslcommerz-lts": "^1.1.3"
+    "sslcommerz-lts": "^1.0.0"
   }
 }
